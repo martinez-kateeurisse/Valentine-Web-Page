@@ -28,7 +28,7 @@ Share or deploy (GitHub Pages, Netlify, etc.)
 Change the Name
 
 Edit:
-- /* <h1>💜 Welcome [] ❤️</h1> */
+- Welcome []
 - Change the Greeting Message
 - Modify the paragraph inside the greeting section.
 Change the Passcode
