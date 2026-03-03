@@ -28,8 +28,7 @@ Share or deploy (GitHub Pages, Netlify, etc.)
 Change the Name
 
 Edit:
-- Welcome []
-- Change the Greeting Message
+- Change the Greeting Messages
 - Modify the paragraph inside the greeting section.
 Change the Passcode
 In the script:
